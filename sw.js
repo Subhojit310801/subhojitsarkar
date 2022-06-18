@@ -1,1 +1,1 @@
-
+self.addEventListener('fetch', (event) => {});
